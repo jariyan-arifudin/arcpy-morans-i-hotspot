@@ -1,0 +1,24 @@
+# Cache Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Data Spasial Mentah & Sementara
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.xml
+*.lock
+
+# Folder Output Laporan
+Morans Index/
+*.html
+*.pdf
+*.xlsx
+*.xls
+
+# File Sistem
+.DS_Store
+Thumbs.db
